@@ -1,0 +1,82 @@
+#home{
+    background-image: url(images/e0ad73f3-header2_000000000000000000028.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 628px;
+}
+.imagesec{
+    margin-top: 30px;
+}
+.heading-text{
+    margin-top: 50px;
+    color: white;
+}
+.heading-text p{
+    font-size: 28px;
+    margin-top: 30px;
+}
+.buttonArea {
+    margin-top: 40px;
+}
+.buttonArea a{
+    border: none;
+    background-color: rgba(255,72,0,1);
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.buttonArea a:hover{
+    background-color:rgba(230,51,0,1) ;
+}
+.supports{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.supporter{
+    display: inline-block;
+}
+.Shead{
+width: 100%;
+text-align: center;
+color: rgb(51, 51, 51);
+font-weight:300;
+margin-bottom: 30px;
+font-size: 20px;
+font-weight: 400;
+}
+#benefitSection{
+    background-image: url(images/69d9f900-benefits-bg2-1_000000000000000000028.jpg);
+    background-size: cover;
+    background-position:  center top;
+    height: 628px;
+}
+.benefit{
+   
+}
+.benefitHead{
+    width: 100%;
+    text-align: center;
+ 
+}
+.benefitHead h3{
+    margin-top: 130px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 3;
+    margin-bottom: 40px;
+    color: #4e4949;
+}
+
+
+.icon{
+    text-align: center;
+}
+.benefitSubHead h5{
+    margin: 20px 0px;
+    text-transform: capitalize;
+}
