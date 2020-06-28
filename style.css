@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 #home{
     background-image: url(images/e0ad73f3-header2_000000000000000000028.jpg);
     background-size: cover;
